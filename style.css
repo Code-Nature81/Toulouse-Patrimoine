@@ -13,14 +13,34 @@ body {
   
 }
 
+
+.info{
+  position: relative;
+}
+
 table{
+  position: absolute;
   color: white;
   text-align: center;
   font-size: 25px;
   letter-spacing: 2.5px;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
-  margin-left: 14%;
-  margin-top: 23px;
+  margin-left: 35px;
+  margin-bottom: 00px;
+  height: 15vh;
+  
+  
+
+}
+
+
+
+.contact-button2{
+  text-align: center;
+  position: relative;
+  margin-bottom: 200px;
+
+  
 }
 
 

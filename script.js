@@ -71,7 +71,8 @@ class CitiesSlider extends React.Component {
 
 
       React.createElement("div", { className: "slider__control", onClick: () => this.changeSlides(-1) }),
-      React.createElement("div", { className: "slider__control slider__control--right", onClick: () => this.changeSlides(1) })));
+      React.createElement("div", { className: "slider__control slider__control--right", onClick: () => this.changeSlides(1) }),
+      React.createElement("div", { className: "table" })));
 
 
 }}
