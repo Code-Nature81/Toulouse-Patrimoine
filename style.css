@@ -16,17 +16,18 @@ body {
 
 .info{
   position: relative;
+
 }
 
 table{
-  position: absolute;
+  margin: auto;
   color: white;
   text-align: center;
-  font-size: 25px;
+  font-size: 18px;
   letter-spacing: 2.5px;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
-  margin-left: 35px;
-  margin-bottom: 00px;
+  
+  padding-bottom: 93px;
   height: 15vh;
   
   
