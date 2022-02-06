@@ -85,7 +85,7 @@ const slides = [
 {
   city: 'Capitole',
   country: 'Place',
-  img: 'https://upload.wikimedia.org/wikipedia/commons/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg' },
+  img: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Toulouse_Capitole_Night_Wikimedia_Commons.jpg/800px-Toulouse_Capitole_Night_Wikimedia_Commons.jpg' },
 
 {
   city: 'St-Sernin',
