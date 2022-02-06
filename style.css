@@ -28,7 +28,7 @@ table{
 .slider {
   overflow: hidden;
   position: relative;
-  height: 90vh;
+  height: 85vh;
   color: #fff;
 }
 .slider__top-heading {
